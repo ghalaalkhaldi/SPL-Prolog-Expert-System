@@ -60,3 +60,8 @@ To run this expert system, you will need SWI-Prolog installed on your machine.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+**Contact:**
+Ghala M. Alkhaldi - ghalaalkhaldi10@gmail.com
